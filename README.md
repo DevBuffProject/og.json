@@ -1,6 +1,6 @@
 <a href="https://vercel.com/new/project?template=7architect/og.json"><img width="128" src="https://vercel.com/button" align="right"></a>
 
-# Open graph API
+# Open graph API Service
 
 Simple open graph REST API based on [open-graph-scrapper](https://github.com/jshemas/openGraphScraper#readme)
 
