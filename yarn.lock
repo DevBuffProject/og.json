@@ -404,8 +404,6 @@
   "integrity" "sha1-h3Gq4HmbZAdrdmQPygWPnBDjPss="
   "resolved" "https://registry.npmjs.org/jsonfile/-/jsonfile-4.0.0.tgz"
   "version" "4.0.0"
-  dependencies:
-    "graceful-fs" "^4.1.6"
   optionalDependencies:
     "graceful-fs" "^4.1.6"
 
@@ -414,7 +412,6 @@
   "resolved" "https://registry.npmjs.org/jsonfile/-/jsonfile-5.0.0.tgz"
   "version" "5.0.0"
   dependencies:
-    "graceful-fs" "^4.1.6"
     "universalify" "^0.1.2"
   optionalDependencies:
     "graceful-fs" "^4.1.6"
@@ -438,10 +435,10 @@
   "resolved" "https://registry.npmjs.org/lowercase-keys/-/lowercase-keys-2.0.0.tgz"
   "version" "2.0.0"
 
-"marked@1.2.8":
-  "integrity" "sha512-lzmFjGnzWHkmbk85q/ILZjFoHHJIQGF+SxGEfIdGk/XhiTPhqGs37gbru6Kkd48diJnEyYwnG67nru0Z2gQtuQ=="
-  "resolved" "https://registry.npmjs.org/marked/-/marked-1.2.8.tgz"
-  "version" "1.2.8"
+"marked@3.0.7":
+  "integrity" "sha512-ctKqbnLuNbsHbI26cfMyOlKgXGfl1orOv1AvWWDX7AkgfMOwCWvmuYc+mVLeWhQ9W6hdWVBynOs96VkcscKo0Q=="
+  "resolved" "https://registry.npmjs.org/marked/-/marked-3.0.7.tgz"
+  "version" "3.0.7"
 
 "mimic-response@^1.0.0":
   "integrity" "sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ=="
