@@ -10,7 +10,7 @@
     "marked": "1.2.8",
     "open-graph-scraper": "4.7.1",
     "puppeteer-core": "9.0.0",
-    "twemoji": "12.1.6",
+    "twemoji": "14.0.2",
     "url": "0.11.0"
   }
 }
