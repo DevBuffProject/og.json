@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "marked": "1.2.8",
-    "open-graph-scraper": "4.7.1",
+    "open-graph-scraper": "6.2.2",
     "puppeteer-core": "9.0.0",
     "twemoji": "12.1.6",
     "url": "0.11.0"
