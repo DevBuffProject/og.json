@@ -7,7 +7,7 @@
     "build": "echo 'no build required'; exit 0;"
   },
   "dependencies": {
-    "marked": "1.2.8",
+    "marked": "5.1.2",
     "open-graph-scraper": "4.7.1",
     "puppeteer-core": "9.0.0",
     "twemoji": "12.1.6",
